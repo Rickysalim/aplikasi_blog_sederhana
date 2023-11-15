@@ -1,0 +1,1 @@
+export { default as BlogDetailSection} from './BlogDetailSection';
